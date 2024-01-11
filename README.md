@@ -87,7 +87,7 @@ Data-driven Full-Stack Software Engineer with a strong foundation in Python and 
 ## 📈 Github stats
 <div style="display: inline-block;">
   <a href="(https://github.com/ronilpatel10)/convoychat">
-    <img height="" width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ronil patel&layout=compact&langs_count=8&card_width=320" />
+    <img height="" width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ronilpatel10&layout=compact&langs_count=8&card_width=320" />
   </a>
 </div>
 <br/>
